@@ -72,3 +72,8 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+Intermediate/AssetRegistryCache/*
+
+# ignore marketplace content
+Content/MarketplaceContent/*
+
