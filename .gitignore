@@ -75,8 +75,8 @@ DerivedDataCache/*
 Intermediate/AssetRegistryCache/*
 
 # ignore marketplace content
+Content/*
 Content/MarketplaceContent/*
-
 Content/AutomotiveMaterials/*
 Content/DeadHillsLandscape/*
 Content/Dynamic_Skydome/*
@@ -117,3 +117,19 @@ Content/Megascans/3D_Assets/*
 Content/MS_PostApocalypticSt/*
 Content/Construction_01/*
 Content/Construction_02/*
+Content/Blueprints/*
+Content/IndustryPropsPack6/*
+Content/Materialize/*
+Content/ModularBuildingSet/*
+Content/MS_CityStreV1/*
+Content/MS_CityStreV2/*
+Content/MS_CityStreV3/*
+Content/MS_CityStreV4/*
+Content/MS_LushPlants/*
+Content/MS_ScaryRestroom/*
+Content/SoulCity/*
+Content/SpaceshipInterior/*
+Content/StarterBundle/*
+Content/Textures/*
+Content/WaterMaterials/*
+Content/Widgets/*
