@@ -193,6 +193,10 @@
 		{
 			"Name": "LiveLink",
 			"Enabled": true
+		},
+		{
+			"Name": "NDIIOPlugin",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
